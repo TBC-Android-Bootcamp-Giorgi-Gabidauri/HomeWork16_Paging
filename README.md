@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/66998427/185822091-c6c6e352-47f4-45a2-
 
 fetching data using pagination
 # used
-paging 3
-di-Koin
-retrofit
-coroutines
+- paging 3
+- di-Koin
+- retrofit
+- coroutines
